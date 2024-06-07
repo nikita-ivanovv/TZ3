@@ -25,6 +25,10 @@
 
 ![Диаграмма состояний drawio](https://github.com/nikita-ivanovv/TZ3/assets/167525787/222d617a-0c2d-4010-90b3-b28652c202be)
 
+## 4) Диаграмма деятельности для описания процесса обработки заказа системой:
+
+![Диаграмма деятельности drawio](https://github.com/nikita-ivanovv/TZ3/assets/167525787/6129aab2-6a6c-4244-af49-e5e6d9311c0d)
+
 ## 5) Диаграмма классов для системы:
 
 ![Диаграмма классов drawio](https://github.com/nikita-ivanovv/TZ3/assets/167525787/71cc33ed-dfe4-46b1-9ce9-1d57bc855de2)
