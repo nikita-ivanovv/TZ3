@@ -17,6 +17,10 @@
 
 ![Диаграмма вариантов использования drawio](https://github.com/nikita-ivanovv/TZ3/assets/167525787/8aa152d6-9b83-482c-b329-b0f158745c3a)
 
+## 2) Диаграмма последовательности для процесса заказа еды через приложение
+
+![Диаграмма последовательности drawio](https://github.com/nikita-ivanovv/TZ3/assets/167525787/542cc1e2-59cf-4e18-9adf-9111c040eeba)
+
 ## 3) Диаграмма состояний для заказа:
 
 ![Диаграмма состояний drawio](https://github.com/nikita-ivanovv/TZ3/assets/167525787/222d617a-0c2d-4010-90b3-b28652c202be)
